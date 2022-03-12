@@ -197,6 +197,7 @@ input[type="text"] {
 .box-1 i{
   position: relative;
   right: 2rem;
-  top: 4.5rem;
+  top: 1rem;
+  font-size: 3rem;
 }
 }
