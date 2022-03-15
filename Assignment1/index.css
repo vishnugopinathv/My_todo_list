@@ -81,8 +81,10 @@ i{
   font-size: 20px;
   box-shadow: 5px 5px 10px rgb(202, 197, 197);
   background-color: white;
-  position: relative;
-  bottom: 300px;
+  position: absolute;
+  bottom:16rem;
+  left: 37rem;
+
 }
 input[type="text"] {
   border-radius: 5px;
